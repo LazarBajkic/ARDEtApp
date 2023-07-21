@@ -1,11 +1,11 @@
-#Sun Jul 16 19:21:48 CEST 2023
-base.0=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.3=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.4=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.5=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.6=C\:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+#Fri Jul 21 19:26:22 CEST 2023
+base.0=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.3=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.4=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.5=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.6=C\:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=10/classes.dex

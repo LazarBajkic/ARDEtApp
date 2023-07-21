@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bojan\\.gradle\\caches\\transforms-3\\0f3c3defdc404fc4afdb629599dab781\\transformed\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

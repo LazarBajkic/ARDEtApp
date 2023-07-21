@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bojan\\Desktop\\AR object detection app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "C:\\Users\\bojan\\Desktop\\ARDEtApp\\AR object detection app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bojan\\.gradle\\caches\\transforms-3\\00b2dd14711568f73e452d53e402e93f\\transformed\\core-1.6.0\\res\\values-az\\values-az.xml",
